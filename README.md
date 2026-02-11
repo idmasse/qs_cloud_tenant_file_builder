@@ -16,10 +16,9 @@ At a high level, this script:
 
 Update these constants at the top of the script before running:
 
-TENANTS_FILE = r"path/to/tenants.xlsx"
-ALTERNATE_TENANTS_FILE = r"path/to/alternate_tenants.xlsx"
-OUTPUT_FILE = r"path/to/output.csv"
-SOURCE_SHEET_NAME = 0  # Excel sheet index or name
+TENANTS_FILE = r"path/to/tenants.xlsx" <br>
+ALTERNATE_TENANTS_FILE = r"path/to/alternate_tenants.xlsx" <br>
+OUTPUT_FILE = r"path/to/output.csv" <br>
 
 Requirements:
 
