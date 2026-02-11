@@ -1,4 +1,4 @@
-Cloud Tenants QMS Import File
+<h2>Cloud Tenants QMS Import File</h2>
 
 This script combines two CSVs into one, merging the data from both. It standardizes names, addresses, phone numbers, and filters out known bad email values.
 
@@ -22,14 +22,14 @@ OUTPUT_FILE = r"path/to/output.csv" <br>
 
 Requirements:
 
-Python 3.10+
+Python 3.10+ <br>
 pandas
 
 Install dependencies:
 
 pip install pandas
 
-Running the Script
+Running the Script <br>
 python3 cloud_tenants.py
 
 On success, you’ll see:
